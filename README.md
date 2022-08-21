@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<h2 align="center">精（个屁）通的编程语言 <img src="https://ask.qcloudimg.com/http-save/yehe-2736799/ioz43cjlx4.gif" width="30"></h2>
+<h2 align="center">精（个屁）通的编程语言 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 </p>
 
 <p align="center">
