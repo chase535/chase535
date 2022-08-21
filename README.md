@@ -22,7 +22,7 @@
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=chase535&theme=swift">
+ <img src="https://activity-graph.herokuapp.com/graph?username=chase535&theme=whight">
 </p>
 
 <p align = "center">
