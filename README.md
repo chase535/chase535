@@ -3,15 +3,17 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chase535&theme=radical">
 </p>
 
-<p align="center">
-<h2 align="center">Laguage <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
-</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+</p>
+
+<p align="center">
+<h2 align="center">Laguage <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 </p>
 
 <p align = "center">
