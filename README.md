@@ -1,9 +1,9 @@
 <p align = "center">
-<h2 align="center"><img src = "https://github-readme-stats.vercel.app/api?username=chase535&show_icons=true&count_private=true&bg_color=270deg,91eae4,86a8e7,7f7fd5&title_color=314755&include_all_commits=true&locale=cn&line_height=27"></h2>
+<img src = "https://github-readme-stats.vercel.app/api?username=chase535&show_icons=true&count_private=true&bg_color=270deg,91eae4,86a8e7,7f7fd5&title_color=314755&include_all_commits=true&locale=cn">
 </p>
 
 <p align="center">
-<h2>精（个屁）通的编程语言 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
+<h2 align="center">精（个屁）通的编程语言 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 </p>
 
 <p align="center">
