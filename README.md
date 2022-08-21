@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<h2 align="center">Language <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
+<h2 align="center">精（个屁）通的编程语言 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 </p>
 
 <p align="center">
@@ -14,10 +14,8 @@
 <img src="https://img.shields.io/badge/Nodejs-grey?style=flat-square&logo=Node.js"/>
 </p>
 
-
-
 <p align="center">
-<h2 align="center">Contribution <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">贡献 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 </p>
 
 <p align = "center">
