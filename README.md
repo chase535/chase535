@@ -31,7 +31,7 @@
 
  
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=chase535&theme=redical">
 </p>
 
 <p align = "center">
