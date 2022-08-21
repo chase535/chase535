@@ -1,6 +1,6 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=chase535&show_icons=true&theme=graywhite&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chase535&theme=graywhite">
+  <img src = "https://github-readme-stats.vercel.app/api?username=chase535&show_icons=true&theme=swift&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chase535&theme=swift">
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=chase535&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=chase535&theme=swift">
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chase535&show_icons=true&locale=en&layout=compact&theme=graywhite&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chase535&show_icons=true&locale=en&layout=compact&theme=swift&line_height=0" />
 </p>
 
 
