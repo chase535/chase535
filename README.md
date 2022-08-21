@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<h2 align="center">精通（个屁）的编程语言 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
+<h2 align="center">精（个屁）通 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 </p>
 
 <p align="center">
