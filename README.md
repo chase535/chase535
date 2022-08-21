@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-orange?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=python"/>
   <img src="https://img.shields.io/badge/Shell-orange?style=flat-square&logo=shell"/>
 <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=javascript"/>
