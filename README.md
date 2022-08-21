@@ -1,9 +1,13 @@
+<p align="center">
+<h2 align="center">数据总览 <img src="https://ask.qcloudimg.com/http-save/yehe-2736799/ioz43cjlx4.gif" width="30"></h2>
+</p>
+
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=chase535&show_icons=true&count_private=true&bg_color=270deg,91eae4,86a8e7,7f7fd5&title_color=314755&include_all_commits=true&locale=cn">
 </p>
 
 <p align="center">
-<h2 align="center">精（个屁）通的编程语言 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
+<h2 align="center">精通（个屁）的编程语言 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
 </p>
 
 <p align="center">
