@@ -19,7 +19,7 @@
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chase535&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chase535&show_icons=true&locale=en&layout=compact&theme=graywhite&line_height=0" />
 </p>
 
 
