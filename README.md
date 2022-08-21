@@ -1,6 +1,6 @@
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wanghao221&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wanghao221&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api?username=chase535&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chase535&theme=radical">
 </p>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
@@ -38,8 +38,6 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-
-个人简介：CSDN原力计划作者，掘金优秀作者，资讯创作者，公众号【海拥】，全网粉丝10万+。我是一个爱好计算机科学，求索于逻辑思维的同时不忘哲学和浪漫主义科学，乐于分享技术与快乐的博主。博文内容涉及Java，Python，HTML/CSS/JS及SEO，数据结构等。
 
 
 
