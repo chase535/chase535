@@ -22,9 +22,9 @@
 </p>
 
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=chase535&theme=whight">
+ <img src="https://activity-graph.herokuapp.com/graph?username=chase535&theme=redical">
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chase535&show_icons=true&locale=en&layout=compact&theme=swift&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chase535&show_icons=true&locale=en&layout=compact&theme=redical&line_height=0" />
 </p>
