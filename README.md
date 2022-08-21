@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-Shell-black?style=flat-square&logo=Shell"/>
 </p>
 
 
