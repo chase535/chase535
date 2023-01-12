@@ -27,7 +27,7 @@
 </p>
 
 <p align = "center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chase535&theme=dracula">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chase535&theme=nord_bright">
 </p>
 
 <p align = "center">
