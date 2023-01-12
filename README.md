@@ -27,7 +27,7 @@
 </p>
 
 <p align = "center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chase535&bg_color=e9e4f0">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chase535&theme=dracula">
 </p>
 
 <p align = "center">
