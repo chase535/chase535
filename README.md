@@ -17,9 +17,6 @@
 <img src="https://img.shields.io/badge/C-grey?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/Python-grey?style=flat-square&logo=python"/>
 <img src="https://img.shields.io/badge/Shell-grey?style=flat-square&logo=shell"/>
-<img src="https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-grey?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/PHP-grey?style=flat-square&logo=PHP"/>
 </p>
 
 <p align="center">
