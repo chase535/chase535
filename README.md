@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">数据总览 <img src="https://ask.qcloudimg.com/http-save/yehe-2736799/ioz43cjlx4.gif" width="30"></h2>
+<h2 align="center">数据总览 <img src="https://raw.githubusercontent.com/chase535/chase535/refs/heads/main/resources/1.gif" width="30"></h2>
 </p>
 
 <p align = "center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<h2 align="center">精（个屁）通 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h2>
+<h2 align="center">精（个屁）通 <img src="https://raw.githubusercontent.com/chase535/chase535/refs/heads/main/resources/2.gif" width="30"></h2>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<h2 align="center">贡献 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">贡献 <img src="https://raw.githubusercontent.com/chase535/chase535/refs/heads/main/resources/3.gif" width="30"></h2>
 </p>
 
 <p align = "center">
